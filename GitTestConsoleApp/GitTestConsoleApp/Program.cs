@@ -14,6 +14,7 @@ namespace GitTestConsoleApp
             var items = new List<Item>();
 
             // Purple monkey dishwasher
+            // Here's another change
         }
     }
 }
