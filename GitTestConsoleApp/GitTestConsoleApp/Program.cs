@@ -7,6 +7,7 @@ namespace GitTestConsoleApp
         {
             // Adding a new comment
             // Adding another comment
+            // Adding yet another comment
         }
     }
 }
