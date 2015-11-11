@@ -15,6 +15,8 @@ namespace GitTestConsoleApp
 
             // Purple monkey dishwasher
             // Here's another change
+
+            // Yet another change on the master branch...
         }
     }
 }
