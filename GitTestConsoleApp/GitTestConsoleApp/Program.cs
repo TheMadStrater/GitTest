@@ -6,6 +6,7 @@ namespace GitTestConsoleApp
         static void Main(string[] args)
         {
             // Adding a new comment
+            // Adding another comment
         }
     }
 }
