@@ -12,6 +12,8 @@ namespace GitTestConsoleApp
 
             // Adding a new comment v1.1
             var items = new List<Item>();
+
+            // Purple monkey dishwasher
         }
     }
 }
