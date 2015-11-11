@@ -1,4 +1,5 @@
 ﻿
+using System.Collections.Generic;
 namespace GitTestConsoleApp
 {
     class Program
@@ -8,6 +9,8 @@ namespace GitTestConsoleApp
             // Adding a new comment
             // Adding another comment
             // Adding yet another comment
+
+            var items = new List<Item>();
         }
     }
 }
